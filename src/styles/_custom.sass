@@ -7,3 +7,34 @@
       color: $color-primario
   .anexo__texto
     color: $color-sistema-texto
+
+.tarjeta-flip.tarjeta .tarjeta-flip__img, .tarjeta-flip.tarjeta .tarjeta-flip__contenido
+  border-radius: 0
+
+.tarjeta-flip__img.especial-left
+  &::before
+    position: absolute
+    content: 'Sonido ambiente o efectos de ambiente'
+    bottom: 0
+    left: 0
+    right: 0
+    padding: 15px
+    background-color: $color-acento-contenido
+    font-weight: 800
+.tarjeta-flip__img.especial-right
+  &::before
+    position: absolute
+    content: 'Efectos especiales'
+    bottom: 0
+    left: 0
+    right: 0
+    padding: 15px
+    background-color: $color-acento-contenido
+    font-weight: 800
+
+
+.tarjeta-flip__img.especial-left, .tarjeta-flip__contenido.especial-left
+  border-top-left-radius: 25px!important
+
+.tarjeta-flip__img.especial-right, .tarjeta-flip__contenido.especial-right
+  border-top-right-radius: 25px!important
