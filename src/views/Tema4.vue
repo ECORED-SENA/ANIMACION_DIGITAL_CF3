@@ -8,7 +8,7 @@
         span 4
       h1 Maqueta de sonido
 
-    p.mb-5 En el siguiente video se expone el proceso básico para el montaje de los cuadros elaborados en el proceso de storyboard con la finalidad de elaborar una animatic.Para esto se utilizará el programa Blender el cual es un software libre que se puede obtener gratuitamente en la página www.blender.org.
+    p.mb-5 En el siguiente video se expone el proceso básico para el montaje de los cuadros elaborados en el proceso de <i>storyboard</i> con la finalidad de elaborar una animatic.Para esto se utilizará el programa Blender el cual es un <i>software</i> libre que se puede obtener gratuitamente en la página www.blender.org.
 
     h3.titulo-tercero Instalación de Blender
 
@@ -26,7 +26,7 @@
 
     .row.justify-content-center
       .col-lg-5
-        a.anexo.color-acento-contenido.mb-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
+        a.anexo.color-acento-contenido.mb-4.mb-lg-0(href="https://youtu.be/IewO4FET2xg" target="_blank")
           .anexo__icono
             img(src="@/assets/curso/link-amarillo.svg")
           .anexo__texto

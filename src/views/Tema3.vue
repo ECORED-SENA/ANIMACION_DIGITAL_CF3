@@ -10,11 +10,11 @@
 
     .row.justify-content-center.mb-5
       .col-lg-6
-        p.mb-0 La maqueta de sonido es la exploración inicial del ensamble sonoro necesario para el audiovisual, en este punto se explora con música y otros sonidos en su mayoría pre existentes para para poder determinar en la práctica qué cosas pueden funcionar y que cosas no, de la misma manera sirve para establecer los tiempos exactos de cada acción ya que hay sonidos como los correspondientes a los diálogos que son necesarios para determinar aspectos de la animación.
+        p.mb-5 La maqueta de sonido es la exploración inicial del ensamble sonoro necesario para el audiovisual, en este punto se explora con música y otros sonidos en su mayoría pre existentes para para poder determinar en la práctica qué cosas pueden funcionar y que cosas no, de la misma manera sirve para establecer los tiempos exactos de cada acción ya que hay sonidos como los correspondientes a los diálogos que son necesarios para determinar aspectos de la animación.
           br
           br
           | Aunque inicialmente se trata de una maqueta para determinar con exactitud qué aspectos sonoros deben ser diseñados y producidos, desde este punto es importante tener en cuenta 4 aspectos fundamentales que deben estar presentes en el diseño sonoro de cualquier producción los cuales se listan y describen a continuación.
-        a.anexo.color-acento-contenido.mb-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
+        a.anexo.color-acento-contenido.mb-4.mb-lg-0(href="https://www.ted.com/talks/tasos_frantzolas_everything_you_hear_on_film_is_a_lie#t-91161" target="_blank")
           .anexo__icono
             img(src="@/assets/curso/link-amarillo.svg")
           .anexo__texto
@@ -36,8 +36,8 @@
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/tema3-img2.jpg')})`}"
       )
-      .bloque-texto-g__texto.p-4
-        p.mb-0 Este aspecto incluye tanto los parlamentos de los personajes como las voces en off que en ocasiones acompañan narrando mientras transcurre la acción.
+      .bloque-texto-g__texto.p-5
+        p.mb-0.py-5 Este aspecto incluye tanto los parlamentos de los personajes como las voces en off que en ocasiones acompañan narrando mientras transcurre la acción.
 
     Separador
 
@@ -69,29 +69,29 @@
                 strong Efectos especiales
                 br
                 br
-                | Son sonidos específicos que sirven para resaltar determinadas situaciones y que son necesarios recrear ya en un estudio diseñado para ello o en un espacio natural, no tienen correspondencia estricta con lo que se está mostrando, por ejemplo en Transformers cuando un robot se transforma hace sonidos mecánicos y electrónicos, los cuales tienen que ser generados de cero para tal fin o capturados de diversas fuentes para modificarlos y adaptarlos a las necesidades de la narración, ya que no existe forma de capturar esos sonidos de un transformer real.
+                | Son sonidos específicos que sirven para resaltar determinadas situaciones y que son necesarios recrear ya en un estudio diseñado para ello o en un espacio natural, no tienen correspondencia estricta con lo que se está mostrando, por ejemplo en <i>Transformers</i> cuando un robot se transforma hace sonidos mecánicos y electrónicos, los cuales tienen que ser generados de cero para tal fin o capturados de diversas fuentes para modificarlos y adaptarlos a las necesidades de la narración, ya que no existe forma de capturar esos sonidos de un transformer real.
                 br
                 br
-                | De la misma manera el cine está plagado de estos efectos de los cuales no tenemos referencia real pero, percibimos como algo creíble como es el caso de los láseres en Star Wars o el rugido de los dinosaurios en Jurassic Park.
+                | De la misma manera el cine está plagado de estos efectos de los cuales no tenemos referencia real pero, percibimos como algo creíble como es el caso de los láseres en <i>Star Wars</i> o el rugido de los dinosaurios en <i>Jurassic Park</i>.
 
     Separador
 
     #t_3_3.titulo-segundo.color-secundario
-      h2 3.3  Foley
+      h2 3.3  <i>Foley</i>
 
     .row.justify-content-center
       .col-lg-6
         figure
           img(src="@/assets/curso/tema3-img5.svg")
       .col-lg-6
-        p.mb-4 El foley es la reconstrucción o creación en estudio de sonidos en sincronía con la imagen real, es una forma de crear efectos especiales, pero principalmente sirve para resaltar o acentuar los sonidos que acompañan una acción y para ello se hace uso de gran variedad de elementos en un ambiente controlado.
+        p.mb-4 El <i>foley</i> es la reconstrucción o creación en estudio de sonidos en sincronía con la imagen real, es una forma de crear efectos especiales, pero principalmente sirve para resaltar o acentuar los sonidos que acompañan una acción y para ello se hace uso de gran variedad de elementos en un ambiente controlado.
           br
           br
           | Por ejemplo, puede existir una toma donde el sonido de los pasos es fundamental para lo que se desea narrar, pero el sonido capturado en el set no es suficientemente impactante por lo que es necesario crearlo en estudio para poder generar las sensaciones que se requieren.
           br
           br
           | Para el caso de la animación es imprescindible, ya que todos los sonidos procedentes de interacciones físicas deben ser generados de alguna manera al no existir los personajes en el mundo real.
-        a.anexo.color-acento-contenido.mb-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
+        a.anexo.color-acento-contenido.mb-4.mb-lg-0(href="https://www.greatbigstory.com/stories/foley-artists-that-s-amazing" target="_blank")
           .anexo__icono
             img(src="@/assets/curso/link-amarillo.svg")
           .anexo__texto

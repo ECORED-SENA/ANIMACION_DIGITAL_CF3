@@ -35,8 +35,8 @@
               | Al momento de optar por una cámara estática resulta importante denotar que la profundidad de campo, el enfoque, las acciones de los personajes, la composición y presencia fuera del campo, son los elementos a tener en cuenta para dotar a un plano de ritmo interno.
               br
               br
-              | Adicionalmente, el movimiento de cámara y de óptica amplían las posibilidades. Un plano secuencia (sin cortes) permitirá relacionar dos o más imágenes, así como también un zoom proporcionará el aislamiento de un detalle o descubrir un entorno. (Fernández y Martínez, 1999). Lo mejor es ver un ejemplo propuesto por Movieclips (2017) de la película “Atomic Blonde” en el material complementario.
-            a.anexo.color-acento-contenido.mb-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
+              | Adicionalmente, el movimiento de cámara y de óptica amplían las posibilidades. Un plano secuencia (sin cortes) permitirá relacionar dos o más imágenes, así como también un zoom proporcionará el aislamiento de un detalle o descubrir un entorno. (Fernández y Martínez, 1999). Lo mejor es ver un ejemplo propuesto por <i>Movieclips</i> (2017) de la película “<i>Atomic Blonde</i>” en el material complementario.
+            a.anexo.color-acento-contenido.mb-4.mb-lg-0(href="https://youtu.be/XarGS1AeEcE" target="_blank")
               .anexo__icono
                 img(src="@/assets/curso/link-amarillo.svg")
               .anexo__texto
@@ -108,8 +108,10 @@
               li
                 .lista-ol--cuadro__vineta
                   span e
-                | Leitmotiv: acentuación de una misma idea. También se le conoce como tema recurrente.
-            a.anexo.color-acento-contenido.mb-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
+                p.mb-0
+                  i Leitmotiv:
+                  |   acentuación de una misma idea. También se le conoce como tema recurrente.
+            a.anexo.color-acento-contenido.mb-4.mb-lg-0(href="https://youtu.be/2h5iWMc_PA4" target="_blank")
               .anexo__icono
                 img(src="@/assets/curso/link-amarillo.svg")
               .anexo__texto
