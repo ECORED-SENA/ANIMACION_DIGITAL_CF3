@@ -64,7 +64,7 @@
     Separador
 
 
-    .titulo-segundo.color-secundario
+    #t_2_1.titulo-segundo.color-secundario
       h2 2.1  Clasificación o métodos de montaje
 
     p.mb-5 Dado que la historia del montaje se encuentra unida a la evolución del lenguaje audiovisual, existen diferentes estilos, tendencias y comprensión de los espectadores, los cuales han ido cambiando los criterios para organizar y combinar de cierta manera cada uno de los fragmentos dentro de un filme (Fernández y Martínez, 1999). No existe como tal una única clasificación arbitraria dentro del montaje, así que se presentan algunas de las más importantes.
