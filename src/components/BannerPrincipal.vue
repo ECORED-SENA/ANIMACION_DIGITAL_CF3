@@ -27,9 +27,9 @@ export default {
     return {
       select: 0,
       images: [
-        require('@/assets/curso/banner-principal.png'),
-        require('@/assets/curso/banner-principal2.png'),
-        require('@/assets/curso/banner-principal3.png'),
+        require('@/assets/curso/P1.png'),
+        require('@/assets/curso/P2.png'),
+        require('@/assets/curso/P3.png'),
       ],
     }
   },
