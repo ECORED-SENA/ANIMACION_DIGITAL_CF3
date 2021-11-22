@@ -9,10 +9,10 @@
       h1 Ritmo y montaje
 
     .row.justify-content-center.mb-5
-      .col-lg-6
+      .col-lg-6(data-aos="slide-left" data-aos-duration="900")
         figure
           img(src="@/assets/curso/tema2-img1.svg")
-      .col-lg-6
+      .col-lg-6(data-aos="slide-right" data-aos-duration="900")
         p.mb-0 El montaje o también conocido como edición, es el proceso mediante el cual se determina la duración y cortes de cada uno de los planos, de la misma manera se realiza la sincronización de sonidos para otorgar mayor sentido al audiovisual.
           br
           br
@@ -21,10 +21,10 @@
           br
           | Desde el lenguaje audiovisual reconocemos el concepto de ritmo como la sensación dinámica dada por el flujo de movimiento, sonoro y visual en los diferentes planos, así como también por efectos de montaje. Es así como se puede crear tensión o relajación a partir de la forma en cómo se articulan los diferentes elementos. Se habla de que un plano cinematográfico posee un ritmo interno y otro externo, que también puede entenderse como montaje interno y montaje externo.
 
-    p.mb5 Para ampliar este concepto puede revisar el material complementario
+    p.mb5(data-aos="fade" data-aos-duration="900") Para ampliar este concepto puede revisar el material complementario
       strong   “El ritmo audiovisual. Ritmo interno y externo”.
 
-    TabsB.color-acento-contenido.mb-5
+    TabsB.color-acento-contenido.mb-5(data-aos="fade" data-aos-duration="900")
       .py-4.py-md-5(titulo="Montaje interno" :icono="require('@/assets/curso/tema2-img2.svg')")
         .row.align-items-center
           .col-md-6.mb-4.mb-md-0
@@ -64,12 +64,12 @@
     Separador
 
 
-    #t_2_1.titulo-segundo.color-secundario
+    #t_2_1.titulo-segundo.color-secundario(data-aos="fade" data-aos-duration="900")
       h2 2.1  Clasificación o métodos de montaje
 
-    p.mb-5 Dado que la historia del montaje se encuentra unida a la evolución del lenguaje audiovisual, existen diferentes estilos, tendencias y comprensión de los espectadores, los cuales han ido cambiando los criterios para organizar y combinar de cierta manera cada uno de los fragmentos dentro de un filme (Fernández y Martínez, 1999). No existe como tal una única clasificación arbitraria dentro del montaje, así que se presentan algunas de las más importantes.
+    p.mb-5(data-aos="slide-left" data-aos-duration="900") Dado que la historia del montaje se encuentra unida a la evolución del lenguaje audiovisual, existen diferentes estilos, tendencias y comprensión de los espectadores, los cuales han ido cambiando los criterios para organizar y combinar de cierta manera cada uno de los fragmentos dentro de un filme (Fernández y Martínez, 1999). No existe como tal una única clasificación arbitraria dentro del montaje, así que se presentan algunas de las más importantes.
 
-    TabsC.color-primario
+    TabsC.color-primario(data-aos="slide-right" data-aos-duration="900")
       .py-3.py-md-4(titulo="Efecto Kuleshov")
         .row.justify-content-center
           .col-lg-5.mb-lg-0.mb-5
