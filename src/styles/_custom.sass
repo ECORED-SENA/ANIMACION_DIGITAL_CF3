@@ -38,3 +38,17 @@
 
 .tarjeta-flip__img.especial-right, .tarjeta-flip__contenido.especial-right
   border-top-right-radius: 25px!important
+
+.banner-principal__img
+  img
+    transition: all 1s ease-out
+
+.section-leave-active
+  display: none
+  transition: 0s
+.section-enter-active
+  transition: .8s
+.section-enter
+  transform: translateX(5%)
+.section-leave-to
+  transform: translateX(-5%)

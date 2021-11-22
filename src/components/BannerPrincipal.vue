@@ -14,8 +14,9 @@
             span.me-1 Ver más
             i.fas.fa-angle-right
 
-      .d-none.d-lg-block.col-lg-5.px-0.banner-principal__img
-        img(ref="imgbanner" :src="images[select]")
+      .d-none.d-lg-block.col-lg-5.px-0.banner-principal__img(data-aos="slide-left" data-aos-duration="800")
+        transition(name="section")
+          img(:src="images[select]" :key="images[select]" data-toggle="tooltip" data-placement="bottom" title="goTop" alt=""  class="image-banner-1")
 </template>
 
 <script>
@@ -30,6 +31,7 @@ export default {
         require('@/assets/curso/P1.png'),
         require('@/assets/curso/P2.png'),
         require('@/assets/curso/P3.png'),
+        require('@/assets/curso/P1.png'),
       ],
     }
   },
@@ -46,7 +48,7 @@ export default {
       setInterval(() => {
         if (this.select === 2) this.select = 0
         else this.select += 1
-      }, 3000)
+      }, 4000)
     },
   },
 }
