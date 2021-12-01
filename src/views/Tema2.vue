@@ -61,6 +61,16 @@
             figure
               img(src='@/assets/curso/tema2-img5.svg', alt='Texto que describa la imagen')
 
+    .row.justify-content-center
+      .col-lg-7
+        a.anexo.color-acento-contenido.mb-4.mb-lg-0(href="https://vimeo.com/63959564" target="_blank")
+          .anexo__icono
+            img(src="@/assets/curso/link-amarillo.svg")
+          .anexo__texto
+            p
+              strong Video.
+              |   Puede consultar el material complementario del documental producido por Wendy Apple “The cutting edge - The magic of the movie editing”, con el fin de ampliar los conceptos de montaje cinematográfico.
+
     Separador
 
 

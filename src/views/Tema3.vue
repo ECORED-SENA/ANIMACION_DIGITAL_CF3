@@ -32,7 +32,7 @@
 
     p.mb-5(data-aos="slide-right" data-aos-duration="900") Son una parte fundamental de todo el diseño sonoro de una producción pues como se mencionó anteriormente, estos definen diversos aspectos de la animación como el timing o los acentos en el acting del personaje esta importancia hace casi imprescindible que de entre todos los audios de una producción los diálogos estén terminados antes de empezar a animar puesto que si se anima con diálogos provisionales es seguro que se generan reprocesos cuando se graben las versiones finales y esto puede dañar el appeal de la animación sin contar los tiempos extra de trabajo.
 
-    .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5(data-aos="slide-left" data-aos-duration="900")
+    .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5.mb-5(data-aos="slide-left" data-aos-duration="900")
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/tema3-img2.jpg')})`}"
       )
@@ -113,7 +113,7 @@
             figure
               img(src='@/assets/curso/tema3-img6.svg', alt='Texto que describa la imagen')
 
-        h2.text-center.text-white Música diegética
+        h2.text-white Música diegética
 
         p.text-white Diégesis es una palabra derivada del griego y según la RAE hace referencia al desarrollo narrativo de los hechos en una obra literaria o cinematográfica, dicho esto, es el tipo de música es la que transcurre al interior del universo narrativo, es decir el emisor de esta música existe dentro de la historia, trátese de una radio, una rockola, una agrupación tocando en algún sitio o incluso el mismo personaje silbando o cantando.
       .col-md.tarjeta.color-acento-contenido.p-5(data-aos="slide-left" data-aos-duration="900")
@@ -122,7 +122,7 @@
             figure
               img(src='@/assets/curso/tema3-img7.svg', alt='Texto que describa la imagen')
 
-        h2.text-center Música extradiegética o incidental
+        h2 Música extradiegética o incidental
 
         p En su definición más sencilla se trata de música de acompañamiento, es decir se encarga de crear una atmósfera para el desarrollo de la acción y por tanto no existe al interior del universo narrativo y si fuese el caso el personaje no estaría en capacidad de escucharla. Habitualmente se compone para acompañar momentos específicos de la historia ya que debe estar pensada conforme a lo que se desea transmitir.
           br

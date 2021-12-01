@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: '<i>Animatic</i>',
     descripcionCurso:
-      'Antes de abandonar la fase de desarrollo y pasar a la pre-producción de un proyecto audiovisual, es imperativo validar que lo planteado en el guión técnico y el <i>storyboard</i> logran contar adecuadamente la historia creada en el guión literario. El mejor camino para realizar esta evaluación e identificar posibles ajustes, es la realización de una<i>animatic</i>o animática.',
+      'Antes de abandonar la fase de desarrollo y pasar a la pre-producción de un proyecto audiovisual, es imperativo validar que lo planteado en el guión técnico y el <i>storyboard</i> logran contar adecuadamente la historia creada en el guión literario. El mejor camino para realizar esta evaluación e identificar posibles ajustes, es la realización de una <i>animatic</i> o animática.',
     imagenBannerPrincipal: require('@/assets/curso/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/banner-intro.jpg'),
   },
@@ -320,7 +320,7 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Veimar Celis Melendez',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',

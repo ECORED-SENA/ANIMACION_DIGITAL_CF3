@@ -22,9 +22,9 @@
 
     h3.titulo-tercero(data-aos="fade" data-aos-duration="800") Tipologías
 
-    p.mb-5(data-aos="fade" data-aos-duration="800") El <i>animatic</i> puede ser tan simple como un video editado de cada uno de los cuadros estáticos que vienen del <i>storyboard</i>, o tan complejos como unas secuencias de animación básicas de las acciones. Es por esto último, que en ocasiones el término<i>animatic</i>se acuña dentro del término “previsualización” (previz). No obstante, una previz se ha convertido en la siguiente etapa o evolución del animatic, agregando elementos y movimientos en 3D y brindando información técnica a todo el equipo de grabación. En particular, la previz es usada en proyectos live-action y producciones de alto presupuesto tales como las películas de Marvel o series de televisión como <i>Game of Thrones</i> de HBO.
+    p.mb-5(data-aos="fade" data-aos-duration="800") El <i>animatic</i> puede ser tan simple como un video editado de cada uno de los cuadros estáticos que vienen del <i>storyboard</i>, o tan complejos como unas secuencias de animación básicas de las acciones. Es por esto último, que en ocasiones el término <i>animatic</i> se acuña dentro del término “previsualización” (previz). No obstante, una previz se ha convertido en la siguiente etapa o evolución del animatic, agregando elementos y movimientos en 3D y brindando información técnica a todo el equipo de grabación. En particular, la previz es usada en proyectos live-action y producciones de alto presupuesto tales como las películas de Marvel o series de televisión como <i>Game of Thrones</i> de HBO.
 
-    .bloque-texto-g.color-primario.p-4.p-sm-5.p-md-5.mb-5(data-aos="fade" data-aos-duration="800")
+    .bloque-texto-g.inverse.color-primario.p-4.p-sm-5.p-md-5.mb-5(data-aos="fade" data-aos-duration="800")
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/tema1-img2.jpg')})`}"
       )
