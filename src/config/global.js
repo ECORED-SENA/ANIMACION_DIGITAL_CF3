@@ -4,7 +4,7 @@ export default {
     descripcionCurso:
       'Antes de abandonar la fase de desarrollo y pasar a la pre-producción de un proyecto audiovisual, es imperativo validar que lo planteado en el guión técnico y el <i>storyboard</i> logran contar adecuadamente la historia creada en el guión literario. El mejor camino para realizar esta evaluación e identificar posibles ajustes, es la realización de una <i>animatic</i> o animática.',
     imagenBannerPrincipal: require('@/assets/curso/banner-principal.png'),
-    fondoBannerPrincipal: require('@/assets/curso/banner-intro.jpg'),
+    fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.png'),
   },
   menuPrincipal: {
     menu: [
