@@ -91,13 +91,13 @@
           br
           br
           | Para el caso de la animación es imprescindible, ya que todos los sonidos procedentes de interacciones físicas deben ser generados de alguna manera al no existir los personajes en el mundo real.
-        a.anexo.color-acento-contenido.mb-4.mb-lg-0(href="https://www.greatbigstory.com/stories/foley-artists-that-s-amazing" target="_blank")
+        a.anexo.color-acento-contenido.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=5hWbmn7GtDE" target="_blank")
           .anexo__icono
             img(src="@/assets/curso/link-amarillo.svg")
           .anexo__texto
             p
-              strong Enlace.
-              i   Great Big Story, The Magical Realism of Foley Artists.
+              strong Video.
+              i    Insider. (2018, Jun. 17). How 10 Different Movie Sounds Are Made | Movies Insider.
 
     Separador
 

@@ -35,13 +35,13 @@
 
     .row.justify-content-center.mb-5
       .col-lg-4.mb-lg-0.mb-5.d-flex(data-aos="slide-left" data-aos-duration="800")
-        a.anexo.color-acento-contenido.mb-4.mb-lg-0(href="https://vimeo.com/1948224" target="_blank")
+        a.anexo.color-acento-contenido.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=bcgTuVNaoY8" target="_blank")
           .anexo__icono
             img(src="@/assets/curso/link-amarillo.svg")
           .anexo__texto
             p
               strong Video.
-              i   Animatic con pocos dibujos: Arthur Gu (2011), "Animatic".
+              i   Disneymusicvevo. (2020, Jan. 30). Into the Unknown (From "Frozen 2"/Storyboard to Final Frame Version)
       .col-lg-4.mb-lg-0.mb-5.d-flex(data-aos="slide-down" data-aos-duration="800")
         a.anexo.color-acento-contenido.mb-4.mb-lg-0(href="https://vimeo.com/12153179" target="_blank")
           .anexo__icono

@@ -20,7 +20,7 @@
 
     figure.mb-5(data-aos="slide-left" data-aos-duration="900")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/UiJ9xn0IDQA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     p.mb-5(data-aos="fade" data-aos-duration="900") Por otro lado, se pone a disposición una serie de videos que presenta el software especializado StoryboardPro y el proceso que se debe seguir para la construcción de un animatic.
 

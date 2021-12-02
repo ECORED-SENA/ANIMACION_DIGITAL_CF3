@@ -163,9 +163,10 @@ export default {
   ],
   complementario: [
     {
-      texto: 'Arthur Gu (2011), "Animatic".',
+      texto:
+        'Disneymusicvevo. (2020, Jan. 30). Into the Unknown (From "Frozen 2"/Storyboard to Final Frame Version). Youtube.',
       tipo: 'Video',
-      link: 'https://vimeo.com/1948224',
+      link: 'https://www.youtube.com/watch?v=bcgTuVNaoY8',
     },
     {
       texto: 'Kevin Parry (2010), The Arctic Circle - Storyboard Comparison.',
@@ -233,10 +234,10 @@ export default {
         'https://www.ted.com/talks/tasos_frantzolas_everything_you_hear_on_film_is_a_lie#t-91161',
     },
     {
-      texto: 'Great big story, The Magical Realism of Foley Artists',
+      texto:
+        'Insider. (2018, Jun. 17). How 10 Different Movie Sounds Are Made | Movies Insider. Youtube.',
       tipo: 'Video / Artículo',
-      link:
-        'https://www.greatbigstory.com/stories/foley-artists-that-s-amazing',
+      link: 'https://www.youtube.com/watch?v=5hWbmn7GtDE',
     },
     {
       texto: 'WEBINAR - Learn How to Create Animatics in Storyboard Pro',
@@ -314,7 +315,42 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: '',
+        nombre: 'Zuleidy Maria Ruiz Torres',
+        cargo: 'Producción audiovisual',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
+      },
+      {
+        nombre: 'Wilson Andrés Arenales Caceres',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Gilberto Junior Rodriguez Rodriguez',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Víctor Raúl Cárdenas Cáceres    ',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'John Jairo Arciniegas González',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Arnulfo Beltrán Mojica',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Carlos Eduardo Garavito Parada ',
         cargo: 'Producción audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
