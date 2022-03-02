@@ -174,7 +174,7 @@ export default {
       link: 'https://vimeo.com/12153179',
     },
     {
-      texto: 'The Third Floor Inc (2020),Avengers: End Game - Previs Reel',
+      texto: 'The Third Floor Inc (2020), Avengers: End Game - Previs Reel',
       tipo: 'Video',
       link: 'https://youtu.be/ghAPq5Y3NdQ',
     },
