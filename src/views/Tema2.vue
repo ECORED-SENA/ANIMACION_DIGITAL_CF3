@@ -50,7 +50,7 @@
         .row.align-items-center
           .col-md-6.mb-4.mb-md-0
             h3.titulo-tercero Montaje externo
-            p.mb-5 Recurre a la edición, recortando y organizando los diferentes planos de la producción de acuerdo a las necesidades narrativas y propósitos sugeridos por el director.
+            p.mb-5 Recurre a la edición, recortando y organizando los diferentes planos de la producción de acuerdo con las necesidades narrativas y propósitos sugeridos por el director.
               br
               br
               | El montaje externo puede lograrse a partir de la continuidad o discontinuidad temporal y espacial, empleando elipsis para suprimir información que la narrativa no requiere o que más adelante se mostrará, rompiendo así la linealidad.

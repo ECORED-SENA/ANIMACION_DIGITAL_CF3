@@ -15,14 +15,14 @@
         figure
           img(src="@/assets/curso/tema1-img1.svg")
       .col-lg-6(data-aos="slide-right" data-aos-duration="800")
-        p.mb-0 También conocido como <i>story reel</i>, el <i>animatic</i> o animática en español, es una composición audiovisual, donde se acoplan y sincronizan todas las secuencias de viñetas del <i>storyboard</i> con la maqueta de sonido. Es la mejor forma de experimentar con el ritmo narrativo y ver cómo quedará el proyecto al final antes de entrar a la etapa de pre-producción. Todas las transiciones entre escenas son mostradas y cada dibujo se monta con cierta duración en el tiempo.
+        p.mb-0 También conocido como <i>story reel</i>, el <i>animatic</i> o animática en español, es una composición audiovisual, donde se acoplan y sincronizan todas las secuencias de viñetas del <i>storyboard</i> con la maqueta de sonido. Es la mejor forma de experimentar con el ritmo narrativo y ver cómo quedará el proyecto al final antes de entrar a la etapa de preproducción. Todas las transiciones entre escenas son mostradas y cada dibujo se monta con cierta duración en el tiempo.
           br
           br
-          | Todo lo anterior permite a los directores y editores corregir la narrativa, sugerir nuevos planos y lograr una duración apropiada <i>(Doucet, 2020)</i>. Como lo menciona el Centro Audiovisual de Rosario – CAR  (Argentina): “Siempre tengamos presente que en animación el trabajo de guión es más activo y abarcativo que en otros géneros. El guión de animación siempre se puede complementar con el dibujo y puede atravesar las distintas etapas de rodaje con mayor libertad para su reescritura que en las ficciones convencionales, permitiendo distintos aportes que enriquecerán nuestra escritura”.
+          | Todo lo anterior permite a los directores y editores corregir la narrativa, sugerir nuevos planos y lograr una duración apropiada <i>(Doucet, 2020)</i>. Como lo menciona el Centro Audiovisual de Rosario – CAR  (Argentina): “Siempre tengamos presente que en animación el trabajo de guion es más activo y abarcativo que en otros géneros. El guion de animación siempre se puede complementar con el dibujo y puede atravesar las distintas etapas de rodaje con mayor libertad para su reescritura que en las ficciones convencionales, permitiendo distintos aportes que enriquecerán nuestra escritura”.
 
     h3.titulo-tercero(data-aos="fade" data-aos-duration="800") Tipologías
 
-    p.mb-5(data-aos="fade" data-aos-duration="800") El <i>animatic</i> puede ser tan simple como un video editado de cada uno de los cuadros estáticos que vienen del <i>storyboard</i>, o tan complejos como unas secuencias de animación básicas de las acciones. Es por esto último, que en ocasiones el término <i>animatic</i> se acuña dentro del término “previsualización” (previz). No obstante, una previz se ha convertido en la siguiente etapa o evolución del animatic, agregando elementos y movimientos en 3D y brindando información técnica a todo el equipo de grabación. En particular, la previz es usada en proyectos live-action y producciones de alto presupuesto tales como las películas de Marvel o series de televisión como <i>Game of Thrones</i> de HBO.
+    p.mb-5(data-aos="fade" data-aos-duration="800") El <i>animatic</i> puede ser tan simple como un video editado de cada uno de los cuadros estáticos que vienen del <i>storyboard</i>, o tan complejos como unas secuencias de animación básicas de las acciones. Es por esto último, que en ocasiones el término <i>animatic</i> se acuña dentro del término “previsualización” (<em>previz</em>). No obstante, una <em>previz</em> se ha convertido en la siguiente etapa o evolución del <em>animatic</em>, agregando elementos y movimientos en 3D y brindando información técnica a todo el equipo de grabación. En particular, la <em>previz</em> es usada en proyectos <em>live-action</em> y producciones de alto presupuesto tales como las películas de Marvel o series de televisión como <i>Game of Thrones</i> de HBO.
 
     .bloque-texto-g.inverse.color-primario.p-4.p-sm-5.p-md-5.mb-5(data-aos="fade" data-aos-duration="800")
       .bloque-texto-g__img(
@@ -57,7 +57,7 @@
           .anexo__texto
             p
               strong Video.
-              i   Animatic avanzado en 3D (Previz): The Third Floor (2020), The making of Avengers: End Game.
+              i   Animatic avanzado en 3D (<em>previz</em>): The Third Floor (2020), The making of Avengers: End Game.
 
     .row.justify-content-center(data-aos="fade" data-aos-duration="800")
       .col-lg-10

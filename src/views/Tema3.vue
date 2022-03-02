@@ -10,7 +10,7 @@
 
     .row.justify-content-center.mb-5(data-aos="fade" data-aos-duration="900")
       .col-lg-6
-        p.mb-5 La maqueta de sonido es la exploración inicial del ensamble sonoro necesario para el audiovisual, en este punto se explora con música y otros sonidos en su mayoría pre existentes para para poder determinar en la práctica qué cosas pueden funcionar y que cosas no, de la misma manera sirve para establecer los tiempos exactos de cada acción ya que hay sonidos como los correspondientes a los diálogos que son necesarios para determinar aspectos de la animación.
+        p.mb-5 La maqueta de sonido es la exploración inicial del ensamble sonoro necesario para el audiovisual, en este punto se explora con música y otros sonidos en su mayoría preexistentes para para poder determinar en la práctica qué cosas pueden funcionar y que cosas no, de la misma manera sirve para establecer los tiempos exactos de cada acción ya que hay sonidos como los correspondientes a los diálogos que son necesarios para determinar aspectos de la animación.
           br
           br
           | Aunque inicialmente se trata de una maqueta para determinar con exactitud qué aspectos sonoros deben ser diseñados y producidos, desde este punto es importante tener en cuenta 4 aspectos fundamentales que deben estar presentes en el diseño sonoro de cualquier producción los cuales se listan y describen a continuación.
@@ -30,7 +30,7 @@
     #t_3_1.titulo-segundo.color-secundario
       h2 3.1  Diálogos
 
-    p.mb-5(data-aos="slide-right" data-aos-duration="900") Son una parte fundamental de todo el diseño sonoro de una producción pues como se mencionó anteriormente, estos definen diversos aspectos de la animación como el timing o los acentos en el acting del personaje esta importancia hace casi imprescindible que de entre todos los audios de una producción los diálogos estén terminados antes de empezar a animar puesto que si se anima con diálogos provisionales es seguro que se generan reprocesos cuando se graben las versiones finales y esto puede dañar el appeal de la animación sin contar los tiempos extra de trabajo.
+    p.mb-5(data-aos="slide-right" data-aos-duration="900") Son una parte fundamental de todo el diseño sonoro de una producción pues como se mencionó anteriormente, estos definen diversos aspectos de la animación como el timing o los acentos en el <em>acting</em> del personaje esta importancia hace casi imprescindible que de entre todos los audios de una producción los diálogos estén terminados antes de empezar a animar puesto que si se anima con diálogos provisionales es seguro que se generan reprocesos cuando se graben las versiones finales y esto puede dañar el appeal de la animación sin contar los tiempos extra de trabajo.
 
     .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5.mb-5(data-aos="slide-left" data-aos-duration="900")
       .bloque-texto-g__img(
@@ -58,7 +58,7 @@
                 strong Sonido ambiente o efectos de ambiente
                 br
                 br
-                | También conocido como room tone, corresponde a todos aquellos sonidos que nos permiten identificar un espacio; es decir el sonido característico de un lugar cuando se encuentra en “silencio”, por ejemplo, el sonido de los pájaros cantando en el bosque mientras el viento pasa entre las hojas de los árboles o el ruido producido por personas hablando en un café. Es importante no confundirlo con el concepto de ambiente, ya que este corresponde a la atmósfera sonora que se crea para un espacio específico mediante la composición y edición de música y otros sonidos que no existirían naturalmente en el lugar, pero que contribuyen a lo que se quiere transmitir con la escena.
+                | También conocido como <em>room tone</em>, corresponde a todos aquellos sonidos que nos permiten identificar un espacio; es decir el sonido característico de un lugar cuando se encuentra en “silencio”, por ejemplo, el sonido de los pájaros cantando en el bosque mientras el viento pasa entre las hojas de los árboles o el ruido producido por personas hablando en un café. Es importante no confundirlo con el concepto de ambiente, ya que este corresponde a la atmósfera sonora que se crea para un espacio específico mediante la composición y edición de música y otros sonidos que no existirían naturalmente en el lugar, pero que contribuyen a lo que se quiere transmitir con la escena.
       .col-lg-6
         .tarjeta.especial-right.tarjeta-flip.color-acento-contenido(@mouseover="indicadorTarjetaFlip = false")(data-aos="slide-left" data-aos-duration="900")
           .indicador--hover(v-if="indicadorTarjetaFlip")
@@ -69,7 +69,7 @@
                 strong Efectos especiales
                 br
                 br
-                | Son sonidos específicos que sirven para resaltar determinadas situaciones y que son necesarios recrear ya en un estudio diseñado para ello o en un espacio natural, no tienen correspondencia estricta con lo que se está mostrando, por ejemplo en <i>Transformers</i> cuando un robot se transforma hace sonidos mecánicos y electrónicos, los cuales tienen que ser generados de cero para tal fin o capturados de diversas fuentes para modificarlos y adaptarlos a las necesidades de la narración, ya que no existe forma de capturar esos sonidos de un transformer real.
+                | Son sonidos específicos que sirven para resaltar determinadas situaciones y que son necesarios recrear ya en un estudio diseñado para ello o en un espacio natural, no tienen correspondencia estricta con lo que se está mostrando, por ejemplo en <i>Transformers</i> cuando un robot se transforma hace sonidos mecánicos y electrónicos, los cuales tienen que ser generados de cero para tal fin o capturados de diversas fuentes para modificarlos y adaptarlos a las necesidades de la narración, ya que no existe forma de capturar esos sonidos de un <em>transformer</em> real.
                 br
                 br
                 | De la misma manera el cine está plagado de estos efectos de los cuales no tenemos referencia real pero, percibimos como algo creíble como es el caso de los láseres en <i>Star Wars</i> o el rugido de los dinosaurios en <i>Jurassic Park</i>.
@@ -102,7 +102,7 @@
     Separador
 
     #t_3_4.titulo-segundo.color-secundario(data-aos="fade" data-aos-duration="900")
-      h2 3.4  Musica
+      h2 3.4  Música
 
     p.mb-5(data-aos="fade" data-aos-duration="900") En este aspecto encontramos también 2 grandes categorías la música diegética y la música extra diegética o incidental.
 

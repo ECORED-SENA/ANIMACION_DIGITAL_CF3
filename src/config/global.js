@@ -64,7 +64,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '3.4',
-            titulo: 'Musica',
+            titulo: 'Música',
             hash: 't_3_4',
           },
         ],
@@ -164,7 +164,7 @@ export default {
   complementario: [
     {
       texto:
-        'Disneymusicvevo. (2020, Jan. 30). Into the Unknown (From "Frozen 2"/Storyboard to Final Frame Version). Youtube.',
+        'DisneyMusicVEVO. (2020, Jan. 30). Into the Unknown (From "Frozen 2"/Storyboard to Final Frame Version). Youtube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=bcgTuVNaoY8',
     },
@@ -174,7 +174,7 @@ export default {
       link: 'https://vimeo.com/12153179',
     },
     {
-      texto: 'The Third Floor (2020),The making of Avengers: End Game',
+      texto: 'The Third Floor Inc (2020),Avengers: End Game - Previs Reel',
       tipo: 'Video',
       link: 'https://youtu.be/ghAPq5Y3NdQ',
     },
@@ -202,7 +202,7 @@ export default {
     },
     {
       texto:
-        'Wendy Apple, (2004) - The cutting edge,  The magic of the movie editing',
+        'Hirton Fernandes, (2004) - The cutting edge,  The magic of the movie editing',
       tipo: 'Video',
       link: 'https://vimeo.com/63959564',
     },
@@ -220,7 +220,7 @@ export default {
       texto:
         'Manuel Pérez Mora - La teoría del montaje en el cine de Eisenstein',
       tipo: 'Video',
-      link: 'https://youtu.be/JKHEGNSuLvE',
+      link: 'https://www.youtube.com/watch?v=ZVd5CBAKzCQ',
     },
     {
       texto: 'Filmadores - Los montajes de Eisenstein - Escuela para Cineastas',
@@ -371,6 +371,21 @@ export default {
     gestoresRepositorio: [
       {
         nombre: 'Milady Tatiana Villamil Castellanos',
+        cargo: 'Validación y vinculación en plataforma LMS',
+        centro: 'Centro de Comercio y Servicios Regional Tolima',
+      },
+      {
+        nombre: 'Daniel Felipe Varón Molina	',
+        cargo: 'Validación y vinculación en plataforma LMS',
+        centro: 'Centro de Comercio y Servicios Regional Tolima',
+      },
+      {
+        nombre: 'Álvaro Andrés Angarita RamÍrez',
+        cargo: 'Validación y vinculación en plataforma LMS',
+        centro: 'Centro de Comercio y Servicios Regional Tolima',
+      },
+      {
+        nombre: 'Andrés Giovanni Machado Cerquera',
         cargo: 'Validación y vinculación en plataforma LMS',
         centro: 'Centro de Comercio y Servicios Regional Tolima',
       },
